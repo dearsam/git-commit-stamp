@@ -1,7 +1,7 @@
 {
   "name": "@kodbruket/git-commit-stamp",
   "author": "Max Malm <max@kodbruket.se>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "bin": {
     "git-commit-stamp": "./index.js"
